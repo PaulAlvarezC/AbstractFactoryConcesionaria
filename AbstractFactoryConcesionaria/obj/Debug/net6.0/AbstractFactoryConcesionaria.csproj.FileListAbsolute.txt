@@ -1,0 +1,15 @@
+/Users/paul.alvarez/Projects/AbstractFactoryConcesionaria/AbstractFactoryConcesionaria/bin/Debug/net6.0/AbstractFactoryConcesionaria
+/Users/paul.alvarez/Projects/AbstractFactoryConcesionaria/AbstractFactoryConcesionaria/bin/Debug/net6.0/AbstractFactoryConcesionaria.deps.json
+/Users/paul.alvarez/Projects/AbstractFactoryConcesionaria/AbstractFactoryConcesionaria/bin/Debug/net6.0/AbstractFactoryConcesionaria.runtimeconfig.json
+/Users/paul.alvarez/Projects/AbstractFactoryConcesionaria/AbstractFactoryConcesionaria/bin/Debug/net6.0/AbstractFactoryConcesionaria.dll
+/Users/paul.alvarez/Projects/AbstractFactoryConcesionaria/AbstractFactoryConcesionaria/bin/Debug/net6.0/AbstractFactoryConcesionaria.pdb
+/Users/paul.alvarez/Projects/AbstractFactoryConcesionaria/AbstractFactoryConcesionaria/obj/Debug/net6.0/AbstractFactoryConcesionaria.csproj.AssemblyReference.cache
+/Users/paul.alvarez/Projects/AbstractFactoryConcesionaria/AbstractFactoryConcesionaria/obj/Debug/net6.0/AbstractFactoryConcesionaria.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul.alvarez/Projects/AbstractFactoryConcesionaria/AbstractFactoryConcesionaria/obj/Debug/net6.0/AbstractFactoryConcesionaria.AssemblyInfoInputs.cache
+/Users/paul.alvarez/Projects/AbstractFactoryConcesionaria/AbstractFactoryConcesionaria/obj/Debug/net6.0/AbstractFactoryConcesionaria.AssemblyInfo.cs
+/Users/paul.alvarez/Projects/AbstractFactoryConcesionaria/AbstractFactoryConcesionaria/obj/Debug/net6.0/AbstractFactoryConcesionaria.csproj.CoreCompileInputs.cache
+/Users/paul.alvarez/Projects/AbstractFactoryConcesionaria/AbstractFactoryConcesionaria/obj/Debug/net6.0/AbstractFactoryConcesionaria.dll
+/Users/paul.alvarez/Projects/AbstractFactoryConcesionaria/AbstractFactoryConcesionaria/obj/Debug/net6.0/refint/AbstractFactoryConcesionaria.dll
+/Users/paul.alvarez/Projects/AbstractFactoryConcesionaria/AbstractFactoryConcesionaria/obj/Debug/net6.0/AbstractFactoryConcesionaria.pdb
+/Users/paul.alvarez/Projects/AbstractFactoryConcesionaria/AbstractFactoryConcesionaria/obj/Debug/net6.0/AbstractFactoryConcesionaria.genruntimeconfig.cache
+/Users/paul.alvarez/Projects/AbstractFactoryConcesionaria/AbstractFactoryConcesionaria/obj/Debug/net6.0/ref/AbstractFactoryConcesionaria.dll
